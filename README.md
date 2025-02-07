@@ -20,13 +20,3 @@ Sitemap added, To learn more read - https://djangocentral.com/creating-sitemaps-
 Feeds added, To learn more read - https://djangocentral.com/creating-feeds-with-django/
 
 Using Environment Variables In Django, To learn more read - https://djangocentral.com/environment-variables-in-django/
-
-# Deployment
-
-How To Deploy Django App with Nginx, Gunicorn, PostgreSQL and Let’s Encrypt SSL on Ubuntu - https://djangocentral.com/deploy-django-with-nginx-gunicorn-postgresql-and-lets-encrypt-ssl-on-ubuntu/
-
-# Contributors
-Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.<br/><br/>
-
-Please star the repo and feel free to make pull requests. <br/><br/>
-<a href='https://ko-fi.com/J3J617AIN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
